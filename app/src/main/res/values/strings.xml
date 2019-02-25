@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SeahawkTours</string>
+    <string name="deets">Details</string>
+    <string-array name="buildings">
+        <item>Alderman Hall</item>
+        <item>CIS Building</item>
+        <item>Bear Hall</item>
+        <item>Belk Hall</item>
+        <item>Bluethenthal Wildflower Preserve</item>
+    </string-array>
+    <string name="display">Last Building Selected:</string>
+    <string name="building">Buildings</string>
+    <string name="two">TextViewer</string>
+    <string name="button1">Get Building Info</string>
+    <string name="about">About</string>
+    <string name="aboot">Created by Tony Singer and Kim Tarquino. UNCW building information and images courtesy of the UNCW Archives.</string>
+    <string name="archlink">https://library.uncw.edu/archives_special/archives</string>
+    <string name="action_share">Share!</string>
+
+
+    <string name="Cis">The Department of Computer Science (College of Arts and Sciences) is located in the Computer Information Systems (CIS) building that opened in 2007, a 51,731 square-foot state-of-the-art facility funded by the North Carolina State Bond campaign of 2000 at a cost of $12.8 million.The CIS building contains several state of the art labs including a Digital Arts lab and a networking lab, research facilities, fully-equipped "smart" classrooms, and a 128 seat auditorium. The CIS building also features several "sandboxes" - small conference rooms equipped with plasma displays that are often used by students collaborating on projects. Dedicated server rooms in the building house computing equipment that supports teaching and research in computer science, and virtually all computer science classes are taught in classrooms in the building.</string>
+    <string name="cis_name">Housed within the new building is the Financial Markets Room and, thanks to a donation from Edward Jones and over 50 if its financial advisers, the Edward Jones Financial Lab. Both rooms contain a stock board and ticker, however the Edward Jones Financial Lab also includes the Bloomberg Trading Terminal. With this terminal, students and faculty have the ability to trade stocks directly with the New York Stock Exchange, NASDAQ and more.
+The Department of Computer Science and the Department of Information Systems and Operations Management are housed at CIS together and are jointly offering a Master of Science in Computer Science Information Systems (MSCSIS) degree, an intensive graduate program aimed at preparing the student to assume leadership roles in the development and implementation of computer and information systems.</string>
+    <string name="cis_url">https://library.uncw.edu/web/collections/archives/bnl/cis.html</string>
+
+    <string name="Bear">Bear Hall was named in recognition of the original Isaac Bear Building, located across the street from New Hanover High School in Wilmington, which served as the first home of Wilmington College, from 1947-1961. Wilmington native Samuel Bear, Jr. erected the original building as a memorial to his brother, Isaac Bear.</string>
+    <string name="bear_name">As the inscription on the plaque states Bear Hall is named for, \"The original Isaac Bear Building, located at Market and 13th Streets, served as the first home of Wilmington College, outside the public school system. Classes were first held there in 1947.\" Constructed in 1912, the name of the first building was given by Samuel Bear, Jr. (1854-1916) as a memorial to his brother, Isaac Bear. The Bear family, owners of an intrastate wholesale dry goods firm located on Front Street, made a number of large donations to better the community such as a wing to James Walker Memorial Hospital. Isaac Bear was known as \"one of Wilmington\'s most capable and highly esteemed businessmen.\" He was a member of North State Lodge of B\'Nai Brith, past Grand President of District Grand Lodge, and B.P.O.E Elks #532. Upon his death, the Isaac Bear Memorial School served to remember \"the close friendship and devotion between the brothers and their interest in public welfare.\" The Order of the Isaac Bear is an honorary organization composed of faculty members that taught at the site of the original Wilmington College. Once the college built the new campus off of College Road, the Isaac Bear Building was torn down (1961).</string>
+    <string name="bear_url">https://library.uncw.edu/web/collections/archives/bnl/19.html</string>
+
+    <string name="Alderman">Alderman Hall was one of the three original buildings on campus, along with James Hall and Hoggard Hall. The original function for this building, as administrative offices, is much the same as its current use. Alderman Hall is named for Edwin Anderson Alderman, a native of Wilmington, who served as president of the University of North Carolina (1890-1900), president of Tulane University (1900-1904), and president of the University of Virginia (1904-1931).</string>
+    <string name="ald_name">In 1861, Dr. Edwin Alderman was born in a house on 3rd Street in Wilmington near St. John\'s Episcopal Church. As a child he developed close ties with the Rev. Joseph Wilson and his son, future United States president, Woodrow Wilson. He graduated from Bethel Military Academy of Virginia in 1879 and went on to attend the University of North Carolina where he received his bachelor degree in 1882. He earned his DCL from University of the South in 1891. Among his recognitions were honorary awards, including LLDs from Tulane (1899), Johns Hopkins (1902) and Columbia (1905). He was a professor of pedagogy at the University of North Carolina and a professor of history and philosophy at Tulane University. He served as president at three southern universities; University of North Carolina, 6th president (1896-1900), Tulane University, 3rd president (1900-1904) and 1st president of University of Virginia (1904-1931). In 1924, Dr. Alderman delivered the memorial address to congress on President Wilson\'s death. Dedicated to his belief in education for all, this building was named to reflect a native of this area and his contributions to higher academics.</string>
+    <string name="ald_url">https://library.uncw.edu/web/collections/archives/landmarks.html</string>
+
+    <string name="Belk">Belk Hall opened during the 1976-77 academic year. This residence hall, which accommodates 200 students, was the second dormitory on the UNC Wilmington campus.</string>
+    <string name="belk_name">Mrs. Mary Belk was the wife of Mr. William Henry Belk, who founded Belk Department Stores in 1888. Her son, Mr. Irwin Belk named this residence hall in honor of his mother, who was a schoolteacher. Mr. Irwin Belk, a 1945 graduate of University of North Carolina Chapel Hill, is a retired president of the Belk Group of Department Stores. He was also a member of the US Olympic Committee, served on the UNC Board of Governors and the President of the American Cancer Society for over 40 years. He was a North Carolina State Senator and a US Delegate to the 54th United Nations General Assembly. The Belk family has generously contributed to numerous schools within the UNC system.</string>
+    <string name="belk_url">https://library.uncw.edu/web/collections/archives/bnl/28.html</string>
+
+    <string name="Bluthenthal">In 1972 a Wildflower Preserve opened on the UNCW campus as a place where students and public can learn about and enjoy native plants in their habitats. This ten-acre site is within walking distance of the central part of the university. The Preserve has two dedication plaques, one to Mr. Bluethenthal and the other to Dr. Wells.</string>
+    <string name="bluthenthal_name">Mr. Herbert Bluethenthal was a Wilmington native and local businessman. His family owned and operated Bluethenthal store on North Front Street downtown and Hermitage Farm. His brother, Arthur, the first New Hanover County casualty of World War I, is memorialized through the name of the regional airport - Bluethenthal Field. From 1921-1959, Mr. Herbert Bluethenthal served on the Board of Directors of James Walker Memorial Hospital. During World War II, he was a member of the Price Administration. Mr. Bluethenthal was also a real estate associate and a lifelong member of the Temple of Israel. Mrs. Janet Bluethenthal lived across the street from the UNCW Chancellor\'s residence and approached the university regarding an appropriate tribute to her deceased spouse. In 1974 the Herbert Bluethenthal Wildflower Preserve was dedicated. As a special request by Mrs. Bluethenthal, Dr. Bertram Whittier Wells was also honored. Dr. Wells (1884-1978) was the leading ecologist of the southeastern United States, a pioneer in the study of ecology of vegetation, a retired North Carolina State University professor and a member of the North Carolina Wildflower Preservation Society. Two of his publications are still referred to today, "Carolina Bays: Additional Data on their Origin" and "The Natural Gardens of North Carolina.</string>
+    <string name="bluthenthal_url">https://library.uncw.edu/web/collections/archives/bnl/blue.html</string>
+
+    <string name="alderman_hall">Alderman Hall</string>
+    <string name="bear_hall">Bear Hall</string>
+    <string name="cis">CIS Building</string>
+    <string name="belk_hall">Belk Hall</string>
+    <string name="bluthenthal">Bluethenthal Wildflower Preserve</string>
+
+
+</resources>
