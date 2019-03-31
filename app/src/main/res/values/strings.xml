@@ -16,7 +16,7 @@
     <string name="aboot">Created by Tony Singer and Kim Tarquino. UNCW building information and images courtesy of the UNCW Archives.</string>
     <string name="archlink">https://library.uncw.edu/archives_special/archives</string>
     <string name="action_share">Share!</string>
-
+    <string name="nearestBuilding">Show Nearest Building</string>
 
     <string name="Cis">The Department of Computer Science (College of Arts and Sciences) is located in the Computer Information Systems (CIS) building that opened in 2007, a 51,731 square-foot state-of-the-art facility funded by the North Carolina State Bond campaign of 2000 at a cost of $12.8 million.The CIS building contains several state of the art labs including a Digital Arts lab and a networking lab, research facilities, fully-equipped "smart" classrooms, and a 128 seat auditorium. The CIS building also features several "sandboxes" - small conference rooms equipped with plasma displays that are often used by students collaborating on projects. Dedicated server rooms in the building house computing equipment that supports teaching and research in computer science, and virtually all computer science classes are taught in classrooms in the building.</string>
     <string name="cis_name">Housed within the new building is the Financial Markets Room and, thanks to a donation from Edward Jones and over 50 if its financial advisers, the Edward Jones Financial Lab. Both rooms contain a stock board and ticker, however the Edward Jones Financial Lab also includes the Bloomberg Trading Terminal. With this terminal, students and faculty have the ability to trade stocks directly with the New York Stock Exchange, NASDAQ and more.
@@ -44,6 +44,9 @@ The Department of Computer Science and the Department of Information Systems and
     <string name="cis">CIS Building</string>
     <string name="belk_hall">Belk Hall</string>
     <string name="bluthenthal">Bluethenthal Wildflower Preserve</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

@@ -10,10 +10,10 @@
         layout="@layout/toolbar_main"
         android:id="@+id/toolbar" />
 
-    <Spinner
+    <ListView
         android:id="@+id/building"
-        android:layout_width="211dp"
-        android:layout_height="60dp"
+        android:layout_width="282dp"
+        android:layout_height="285dp"
         android:layout_gravity="center"
         android:layout_marginTop="76dp"
         android:entries="@array/buildings"
@@ -22,24 +22,6 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
-        android:onClick="onClickBuilding"
-        android:text="@string/button1"
-        android:paddingTop="8dp"
-        app:layout_constraintBottom_toTopOf="@+id/display"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/building" />
 
     <TextView
         android:id="@+id/display"
@@ -54,10 +36,9 @@
         android:text="@string/display"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.434" />
+        app:layout_constraintVertical_bias="0.575" />
 
     <TextView
         android:id="@+id/last_building"
@@ -73,6 +54,23 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.505" />
+        app:layout_constraintVertical_bias="0.646" />
+
+    <Button
+        android:id="@+id/nearestBuilding"
+        android:onClick="onNearestClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/nearestBuilding"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/last_building"
+        app:layout_constraintVertical_bias="0.333" />
 
 </android.support.constraint.ConstraintLayout>
